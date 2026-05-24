@@ -60,6 +60,7 @@ afiog/
 │   ├── strategy.md                    # 全体戦略と意思決定の根拠
 │   ├── simulation.md                  # 市場精査 + 24ヶ月収益シミュレーション
 │   ├── launch-checklist.md            # ステージ1 のやることリスト
+│   ├── publish-workflow.md            # 記事公開ワークフロー（HTMLドラフト→公開）
 │   └── lessons.md                     # 自分への戒め・学びのログ
 ├── articles/                          # WordPress 記事の下書き
 │   ├── 01-kojo-tenshoku-kentou.md
