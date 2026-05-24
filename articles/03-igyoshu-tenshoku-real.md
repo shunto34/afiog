@@ -1,12 +1,15 @@
 ---
 status: 下書き
-target_platform: note
-target_chars: 3000-4000
+target_platform: WordPress
+target_chars: 3500-4500
 keywords:
   - 工場 異業種 転職
   - 製造業 異業種
   - メーカー 転職 後悔
-asp_link: なし（Phase 0は収益化リンクなし）
+asp_link:
+  - doda（汎用、異業種転職の定番）
+  - リクルートエージェント（求人数最多）
+  - JACリクルートメント（年収アップ系）
 ---
 
 # 工場勤務から異業種転職は本当にできるのか【製造業[N]年目が調べた結論】

@@ -1,12 +1,14 @@
 ---
 status: 下書き
-target_platform: note
-target_chars: 2500-3500
+target_platform: WordPress
+target_chars: 3000-4000
 keywords:
   - 工場勤務 転職
   - 製造業 辞めたい
   - 工場 きつい
-asp_link: なし（Phase 0は収益化リンクなし）
+asp_link:
+  - メイテックネクスト（記事末尾CTAで導線）
+  - doda（汎用エージェントとして併記）
 ---
 
 # 製造業[N]年の私が、転職を真剣に検討した話

@@ -1,12 +1,14 @@
 ---
 status: 下書き
-target_platform: note
-target_chars: 2500-3500
+target_platform: WordPress
+target_chars: 3000-4000
 keywords:
   - 夜勤 つらい
   - 夜勤 辞めたい
   - 交代勤務 健康
-asp_link: なし（Phase 0は収益化リンクなし）
+asp_link:
+  - メイテックネクスト（日勤転職の選択肢として）
+  - 退職代行サービス（行動できない読者向け）
 ---
 
 # 夜勤がしんどくて転職を考えた話【製造業[N]年目のリアル】
