@@ -58,6 +58,7 @@ afiog/
 ├── README.md                          # このファイル
 ├── docs/
 │   ├── strategy.md                    # 全体戦略と意思決定の根拠
+│   ├── simulation.md                  # 市場精査 + 24ヶ月収益シミュレーション
 │   ├── launch-checklist.md            # ステージ1 のやることリスト
 │   └── lessons.md                     # 自分への戒め・学びのログ
 ├── articles/                          # WordPress 記事の下書き
